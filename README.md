@@ -26,7 +26,7 @@
 
 <p>Digite o local desejado e pesquise para ter suas informações .</p>
 
-- <a href="https://rodrigofrancosantos.github.io/PrevisaoDoTempo/" target="_black_">Teste o projeto, aqui !</a>
+- <a href="https://rodrigofrancosantos.github.io/PrevisaoDoTempo/" target ="_ blank" >Teste o projeto, aqui !</a>
 
 
 
